@@ -32,7 +32,7 @@ I'm a passionate and proactive **Software Engineering Undergraduate** at the fin
   <a href="mailto:jdsupunsabdaruwan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Supun Sandaruwan's Email"/>
   </a>
-  <a href="https://www.buymeacoffee.com/sandaruwan2001" target="_blank">
+  <a href="https://www.buymeacoffee.com/sandaruwanjds" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </p>
@@ -44,14 +44,15 @@ I'm a passionate and proactive **Software Engineering Undergraduate** at the fin
 ## 📊 GitHub Stats
       
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandaruwan2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="sandaruwan2001's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=sandaruwan2001&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="sandaruwan2001's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaruwan2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandaruwanjds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="sandaruwanjds's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sandaruwanjds&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="sandaruwanjds's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaruwanjds&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
   </td>
 </tr>
 </table>
+---
 ## 🛠️ My Tech Stack
 *I am proficient in a variety of technologies for web and mobile development.*
 
@@ -90,9 +91,10 @@ I'm a passionate and proactive **Software Engineering Undergraduate** at the fin
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
+---
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandaruwan2001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Supun Sandaruwan's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sandaruwanjds&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Supun Sandaruwan's GitHub Trophies" />
 </p>
 
 <div align="center">
@@ -100,7 +102,7 @@ I'm a passionate and proactive **Software Engineering Undergraduate** at the fin
 </div>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=sandaruwan2001">
-    <img src="https://komarev.com/ghpvc/?username=sandaruwan2001&label=Profile%20views&color=0e9595&style=flat-square" alt="sandaruwan2001's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=sandaruwanjds">
+    <img src="https://komarev.com/ghpvc/?username=sandaruwanjds&label=Profile%20views&color=0e9595&style=flat-square" alt="sandaruwanjds's profile views" />
   </a>
 </p>
