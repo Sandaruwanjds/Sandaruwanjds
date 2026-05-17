@@ -25,18 +25,18 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year **Software Engineering Undergraduate**
-- 💻 Full-stack developer (Web + Systems + Mobile)
-- ⚡ Building **scalable apps with modern UI/UX**
+- 🎓 Final-year **Software Engineering Undergraduate** at the Open University of Sri Lanka
+- 💻 Full-stack developer — **Web · Systems · Mobile**
+- ⚡ Building **scalable apps** with modern UI/UX
 - 🧠 Strong focus on **clean architecture & performance**
-- 🎯 Currently looking for **internships & junior roles**
+- 🎯 Currently looking for **internships & junior developer roles**
 
 ---
 
 ## 🧠 What I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,java,python,c,php,mysql,sqlite,html,css,tailwind,bootstrap,docker,git,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,java,python,c,php,mysql,sqlite,html,css,tailwind,bootstrap,docker,git,figma,postman" />
 </p>
 
 ---
@@ -44,14 +44,14 @@
 ## ⚡ Featured Projects
 
 ### 🔹 MyExpenseTracker
-Android-based expense tracking app with clean UI and local database  
-👉 https://github.com/Sandaruwanjds/MyExpenseTracker  
+Android-based expense tracking app with clean UI and local database storage  
+👉 [github.com/Sandaruwanjds/MyExpenseTracker](https://github.com/Sandaruwanjds/MyExpenseTracker)
 
 ### 🔹 Hotel360
-Full hotel booking & management system with admin dashboard  
-👉 https://github.com/Sandaruwanjds/Hotel360  
+Full hotel booking & management system with admin dashboard and reservations  
+👉 [github.com/Sandaruwanjds/Hotel360](https://github.com/Sandaruwanjds/Hotel360)
 
-👉 Explore more: https://github.com/Sandaruwanjds?tab=repositories
+📂 Explore all repos → [github.com/Sandaruwanjds?tab=repositories](https://github.com/Sandaruwanjds?tab=repositories)
 
 ---
 
@@ -59,6 +59,7 @@ Full hotel booking & management system with admin dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandaruwanjds&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  &nbsp;
   <img src="https://streak-stats.demolab.com?user=sandaruwanjds&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -67,16 +68,16 @@ Full hotel booking & management system with admin dashboard
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandaruwanjds&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sandaruwanjds&theme=tokyonight&no-frame=true&row=1&margin-w=12" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 - 📩 Email: **jdsupunsabdaruwan@gmail.com**
-- 💼 LinkedIn: **Supun Sandaruwan**
-- 🚀 Open to freelance, internships & collaborations
+- 💼 LinkedIn: [Supun Sandaruwan](https://www.linkedin.com/in/supun-sandaruwan-98bab3235/)
+- 🚀 Open to **freelance work, internships & collaborations**
 
 ---
 
@@ -85,5 +86,5 @@ Full hotel booking & management system with admin dashboard
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandaruwanjds&color=0e9595&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=sandaruwanjds&label=Profile%20Views&color=0e9595&style=flat-square"/>
 </p>
