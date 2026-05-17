@@ -48,14 +48,31 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 **MyExpenseTracker** – Android expense tracking app  
-  👉 https://github.com/Sandaruwanjds/MyExpenseTracker  
+### 🔹 Hotel360
+Full-featured hotel booking & management system with admin dashboard  
+👉 https://github.com/Sandaruwanjds/Hotel360  
 
-- 🔹 **Hotel360** – Hotel booking & management system  
-  👉 https://github.com/Sandaruwanjds/Hotel360  
+### 🔹 RealWarehouse
+Warehouse management system with inventory tracking & operations  
+👉 https://github.com/Sandaruwanjds/RealWarehouse  
 
-👉 More projects: https://github.com/Sandaruwanjds?tab=repositories
+### 🔹 MyExpenseTracker
+Android expense tracking app with clean UI and local database  
+👉 https://github.com/Sandaruwanjds/MyExpenseTracker  
 
+### 🔹 Ayonion CMS
+Customer management system to organize and streamline client services  
+👉 https://github.com/Sandaruwanjds/Ayonion-CMS  
+
+### 🔹 Booking Platform
+Scalable booking system for handling reservations and services  
+👉 https://github.com/Sandaruwanjds/Booking-Platform  
+
+### 🔹 POS System
+Point of Sale system for business transactions and management  
+👉 https://github.com/Sandaruwanjds/POS-System  
+
+👉 Explore more: https://github.com/Sandaruwanjds?tab=repositories
 ---
 
 ## 📊 GitHub Stats
