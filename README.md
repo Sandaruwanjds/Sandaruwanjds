@@ -91,6 +91,30 @@ Point of Sale system for business transactions and management
 </p>
 
 ---
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandaruwanjds&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 📩 Email: **jdsupunsabdaruwan@gmail.com**
+- 💼 LinkedIn: **Supun Sandaruwan**
+- 🚀 Open to freelance, internships & collaborations
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandaruwanjds&color=0e9595&style=flat-square"/>
+</p>
+
 
 ## 🤝 Contact
 
