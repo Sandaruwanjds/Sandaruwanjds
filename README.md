@@ -115,14 +115,6 @@ Point of Sale system for business transactions and management
   <img src="https://komarev.com/ghpvc/?username=sandaruwanjds&color=0e9595&style=flat-square"/>
 </p>
 
-
-## 🤝 Contact
-
-- 📩 Email: jdsupunsabdaruwan@gmail.com  
-- 💼 LinkedIn: Supun Sandaruwan  
-
----
-
 <!-- ================= FOOTER ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:243B55,100:141E30&height=120&section=footer"/>
